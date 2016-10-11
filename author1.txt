@@ -1,0 +1,12 @@
+4 9.012
+12 24.305
+20 20.078
+38 87.62
+authoR Hung Tran
+56 137.327
+auThor Vu
+88 226
+
+AuThor  Tommy
+
+A
