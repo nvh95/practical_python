@@ -1,11 +1,11 @@
 
 import nose
-from bubble_sort import bubble_sort
+from bubble_sort2 import bubble_sort2
 
 # CAUTION: 
 def run(original, expected):
     '''Sort list original and compare it to list expected.'''
-    bubble_sort(original)
+    bubble_sort2(original)
     assert original == expected
 
 def test_empty():
